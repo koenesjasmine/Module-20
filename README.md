@@ -11,7 +11,8 @@ We started by removing the columns EIN and Name that contain identification info
 
 > For my model I selected 2 layers, 80 and 30 neurons respectively
 
-    ![](resources/Model_Base__config.png)
+![image](https://user-images.githubusercontent.com/124399950/222374006-d4468883-661e-427f-a833-3315ecf5a03b.png)
+
 
 > I was unable to achieve the 75% target accuracy. 73% was the best I achieved. 
 
